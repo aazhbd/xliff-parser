@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" lang="en">
+  <file original="flashbeam" source-language="en" datatype="plaintext">
+    <header/>
+    <body>
+      <trans-unit id="pdf_text_1" resname="pdf_text_1">
+        <source>Audi A3 Sportback e-tron</source>
+      </trans-unit>
+      <trans-unit id="pdf_text_2" resname="pdf_text_2">
+        <source>Certification questions</source>
+      </trans-unit>
+      <trans-unit id="pdf_text_3" resname="pdf_text_3">
+        <source>Use this questionnaire to prepare intensively for the e-tron expert training and the associated certification.  Learn about the Audi A3 Sportback e-tron using all of the available media, such as WBT and the website.</source>
+      </trans-unit>
+      <trans-unit id="question_10_answer_1_text" resname="question_10_answer_1_text">
+        <source>It must be pressed once to activate EV mode.</source>
+      </trans-unit>
+      <trans-unit id="question_10_answer_2_text" resname="question_10_answer_2_text">
+        <source>It works like the Audi drive select button; pressing once displays the current mode for a short time. Pressing a second time switches to the next mode.</source>
+      </trans-unit>
+      <trans-unit id="question_10_answer_3_text" resname="question_10_answer_3_text">
+        <source>On the e-tron, the Audi drive select button is replaced with the EV button.</source>
+      </trans-unit>
+      <trans-unit id="question_10_answer_4_text" resname="question_10_answer_4_text">
+        <source>If the charge level of the high-voltage battery is too low for purely electric operation, this button has no function.</source>
+      </trans-unit>
+      <trans-unit id="question_10_text" resname="question_10_text">
+        <source>Which of the following statements regarding the EV button are correct?</source>
+      </trans-unit>
+      <trans-unit id="question_11_answer_1_text" resname="question_11_answer_1_text">
+        <source>2h 15min with an industrial outlet, if the charging control unit is set to 100% charging power</source>
+      </trans-unit>
+      <trans-unit id="question_11_answer_2_text" resname="question_11_answer_2_text">
+        <source>1h 15min at a fast charging station</source>
+      </trans-unit>
+      <trans-unit id="question_11_answer_3_text" resname="question_11_answer_3_text">
+        <source>3h 45min with a household outlet</source>
+      </trans-unit>
+      <trans-unit id="question_11_answer_4_text" resname="question_11_answer_4_text">
+        <source>2h 15min, regardless of the kind of outlet</source>
+      </trans-unit>
+      <trans-unit id="question_11_text" resname="question_11_text">
+        <source>How long does it take to fully charge the A3 e-tron?</source>
+      </trans-unit>
+      <trans-unit id="question_12_answer_1_text" resname="question_12_answer_1_text">
+        <source>The ability to seat 4 is the only restriction in the interior. </source>
+      </trans-unit>
+      <trans-unit id="question_12_answer_2_text" resname="question_12_answer_2_text">
+        <source>The cargo floor in the luggage compartment is raised a level, and only the cargo space underneath has been lost.</source>
+      </trans-unit>
+      <trans-unit id="question_12_answer_3_text" resname="question_12_answer_3_text">
+        <source>With its range of up to 940 km, the A3 e-tron is also suitable for weekend getaways.</source>
+      </trans-unit>
+      <trans-unit id="question_12_answer_4_text" resname="question_12_answer_4_text">
+        <source>With the e-tron charging system, the vehicle can be charged using a household outlet or an industrial outlet, whether at home or on the go (e.g. at a hotel). </source>
+      </trans-unit>
+      <trans-unit id="question_12_text" resname="question_12_text">
+        <source>The Audi A3 e-tron is perfect for everyday use. Which of the following statements are true?</source>
+      </trans-unit>
+      <trans-unit id="question_13_answer_1_text" resname="question_13_answer_1_text">
+        <source>When EV mode is activated, the vehicle drives purely electrically, except when the driver requests too much power from the vehicle (kickdown).</source>
+      </trans-unit>
+      <trans-unit id="question_13_answer_2_text" resname="question_13_answer_2_text">
+        <source>The vehicle always starts in EV mode, provided that there is sufficient battery charge and the outdoor temperature is not below -10°C. </source>
+      </trans-unit>
+      <trans-unit id="question_13_answer_3_text" resname="question_13_answer_3_text">
+        <source>Auto mode is a wise choice if more than 50 km remain until the next charging opportunity.</source>
+      </trans-unit>
+      <trans-unit id="question_13_answer_4_text" resname="question_13_answer_4_text">
+        <source>In Auto mode, the vehicle decides independently which drive is the most efficient at a specific point in time. </source>
+      </trans-unit>
+      <trans-unit id="question_13_text" resname="question_13_text">
+        <source>Which of the following statements regarding EV and hybrid Auto mode are true?</source>
+      </trans-unit>
+      <trans-unit id="question_14_answer_1_text" resname="question_14_answer_1_text">
+        <source>Hybrid Hold: to save the current electric range for later use if there are no other charging opportunities</source>
+      </trans-unit>
+      <trans-unit id="question_14_answer_2_text" resname="question_14_answer_2_text">
+        <source>Hybrid Hold: whenever the battery is fully charged</source>
+      </trans-unit>
+      <trans-unit id="question_14_answer_3_text" resname="question_14_answer_3_text">
+        <source>Hybrid Charge: must be activated before the A3 e-tron is charged using an outlet</source>
+      </trans-unit>
+      <trans-unit id="question_14_answer_4_text" resname="question_14_answer_4_text">
+        <source>Hybrid Charge: only when the driver wants to drive electrically later 
+(e.g. to demonstrate electric driving on arrival) and the current remaining range is insufficient</source>
+      </trans-unit>
+      <trans-unit id="question_14_text" resname="question_14_text">
+        <source>When does it make sense to use the hybrid Hold and hybrid Charge mode of the 
+Audi A3 e-tron?</source>
+      </trans-unit>
+      <trans-unit id="question_15_answer_1_text" resname="question_15_answer_1_text">
+        <source>The Audi drive select settings are changed to &amp;quot;dynamic&amp;quot;.</source>
+      </trans-unit>
+      <trans-unit id="question_15_answer_2_text" resname="question_15_answer_2_text">
+        <source>The vehicle no longer drives on electric power alone and switches to the hybrid Hold mode. The combustion engine is active during driving. </source>
+      </trans-unit>
+      <trans-unit id="question_15_answer_3_text" resname="question_15_answer_3_text">
+        <source>The engine and transmission behave much sportier.</source>
+      </trans-unit>
+      <trans-unit id="question_15_answer_4_text" resname="question_15_answer_4_text">
+        <source>In overrun, significant recuperation is felt. The vehicle does not coast. </source>
+      </trans-unit>
+      <trans-unit id="question_15_text" resname="question_15_text">
+        <source>What happens when the gear selector is moved to the "S" position?</source>
+      </trans-unit>
+      <trans-unit id="question_16_answer_1_text" resname="question_16_answer_1_text">
+        <source>Public charging is achieved using standard e-tron charging equipment.</source>
+      </trans-unit>
+      <trans-unit id="question_16_answer_2_text" resname="question_16_answer_2_text">
+        <source>The standard e-tron charging equipment can only be used for charging via household and industrial outlets, not public charging.</source>
+      </trans-unit>
+      <trans-unit id="question_16_answer_3_text" resname="question_16_answer_3_text">
+        <source>For public charging stations, an e-tron charging cable (mode 3) is available through Audi Genuine Parts. The cable can also be selected as an option. </source>
+      </trans-unit>
+      <trans-unit id="question_16_answer_4_text" resname="question_16_answer_4_text">
+        <source>Only AC charging (alternating current) is possible with the A3 e-tron. DC charging (direct current/"fast charging") is not possible. </source>
+      </trans-unit>
+      <trans-unit id="question_16_text" resname="question_16_text">
+        <source>Which of the following statements regarding public charging (e.g. at an AC charging terminal) are true for the Audi A3 e-tron?</source>
+      </trans-unit>
+      <trans-unit id="question_17_answer_1_text" resname="question_17_answer_1_text">
+        <source>The driver can switch between immediate charging and time-delayed charging via 2 buttons at the charging port.</source>
+      </trans-unit>
+      <trans-unit id="question_17_answer_2_text" resname="question_17_answer_2_text">
+        <source>The turn signals flash twice to indicate that the cable is properly connected. </source>
+      </trans-unit>
+      <trans-unit id="question_17_answer_3_text" resname="question_17_answer_3_text">
+        <source>The connector is locked into place via the central locking system. It is not possible to unplug the charging connector during charging. </source>
+      </trans-unit>
+      <trans-unit id="question_17_answer_4_text" resname="question_17_answer_4_text">
+        <source>The vehicle cannot be started while the charging connector is plugged into the charging unit of the vehicle.</source>
+      </trans-unit>
+      <trans-unit id="question_17_text" resname="question_17_text">
+        <source>The charging connector is connected to the A3 e-tron. Which of the following statements are correct?</source>
+      </trans-unit>
+      <trans-unit id="question_18_answer_1_text" resname="question_18_answer_1_text">
+        <source>The Toyota Prius plug-in does not match the performance of the 
+A3 e-tron; neither in terms of sportiness nor environmental friendliness.</source>
+      </trans-unit>
+      <trans-unit id="question_18_answer_2_text" resname="question_18_answer_2_text">
+        <source>Despite its hybrid capabilities, the Toyota Prius plug-in only has an electric range of about 25 km.</source>
+      </trans-unit>
+      <trans-unit id="question_18_answer_3_text" resname="question_18_answer_3_text">
+        <source>The BMW i3 with the range extender option has a total range suitable for everyday use at the level of the A3 e-tron.</source>
+      </trans-unit>
+      <trans-unit id="question_18_answer_4_text" resname="question_18_answer_4_text">
+        <source>The BMW i3 has acceleration (0-100 km/h) on level with the A3 e-tron (as an electric vehicle, slightly shorter, as range extender slightly longer), but only has a top speed of 150 km/h.</source>
+      </trans-unit>
+      <trans-unit id="question_18_text" resname="question_18_text">
+        <source>Which of the following statements regarding the competitive environment of the 
+A3 e-tron are correct?</source>
+      </trans-unit>
+      <trans-unit id="question_19_answer_1_text" resname="question_19_answer_1_text">
+        <source>Under high pressure, more fuel can be saved. This is the only way long range is possible. </source>
+      </trans-unit>
+      <trans-unit id="question_19_answer_2_text" resname="question_19_answer_2_text">
+        <source>The tank flap must be opened via a button in the driver's door.</source>
+      </trans-unit>
+      <trans-unit id="question_19_answer_3_text" resname="question_19_answer_3_text">
+        <source>It prevents the customer from encountering a fuel-air mixture when refueling. </source>
+      </trans-unit>
+      <trans-unit id="question_19_answer_4_text" resname="question_19_answer_4_text">
+        <source>The pressure tank is necessary because gaseous hydrocarbon bonds are not burned by the engine during electric operation and they are therefore selectively filtered / rinsed through the activated carbon filter before refueling.</source>
+      </trans-unit>
+      <trans-unit id="question_19_text" resname="question_19_text">
+        <source>Which of the following statements regarding the pressure tank of the
+Audi A3 e-tron are true?</source>
+      </trans-unit>
+      <trans-unit id="question_1_answer_1_text" resname="question_1_answer_1_text">
+        <source>They must be registered with myAudi.</source>
+      </trans-unit>
+      <trans-unit id="question_1_answer_2_text" resname="question_1_answer_2_text">
+        <source>They must have MMI navigation plus and Audi connect in the vehicle.</source>
+      </trans-unit>
+      <trans-unit id="question_1_answer_3_text" resname="question_1_answer_3_text">
+        <source>They must register on the Audi A3 e-tron portal.</source>
+      </trans-unit>
+      <trans-unit id="question_1_answer_4_text" resname="question_1_answer_4_text">
+        <source>Their mobile device must be compatible with the app.</source>
+      </trans-unit>
+      <trans-unit id="question_1_text" resname="question_1_text">
+        <source>Which are the requirements that must be met before a customer can use the 
+Audi connect e-tron services in full?</source>
+      </trans-unit>
+      <trans-unit id="question_20_answer_1_text" resname="question_20_answer_1_text">
+        <source>Car washes must not be used due to the high-voltage components.</source>
+      </trans-unit>
+      <trans-unit id="question_20_answer_2_text" resname="question_20_answer_2_text">
+        <source>In electric mode, the vehicle moves almost silently and can hardly be heard by passers-by.</source>
+      </trans-unit>
+      <trans-unit id="question_20_answer_3_text" resname="question_20_answer_3_text">
+        <source>The vehicle can receive a 12 V boost (if the 12 V battery is discharged), but jump starting is not permitted!</source>
+      </trans-unit>
+      <trans-unit id="question_20_answer_4_text" resname="question_20_answer_4_text">
+        <source>The orange high-voltage cable must not be damaged, altered, removed or disconnected from the high-voltage system.</source>
+      </trans-unit>
+      <trans-unit id="question_20_text" resname="question_20_text">
+        <source>What is important to remember with the Audi A3 e-tron?</source>
+      </trans-unit>
+      <trans-unit id="question_21_answer_1_text" resname="question_21_answer_1_text">
+        <source>charging time</source>
+      </trans-unit>
+      <trans-unit id="question_21_answer_2_text" resname="question_21_answer_2_text">
+        <source>charging power 50% or 100% when connected to an industrial outlet</source>
+      </trans-unit>
+      <trans-unit id="question_21_answer_3_text" resname="question_21_answer_3_text">
+        <source>PIN to prevent unauthorized use</source>
+      </trans-unit>
+      <trans-unit id="question_21_answer_4_text" resname="question_21_answer_4_text">
+        <source>charging power 50% or 100% when connected to a household outlet</source>
+      </trans-unit>
+      <trans-unit id="question_21_text" resname="question_21_text">
+        <source>Which settings can the customer adjust on the charging control unit?</source>
+      </trans-unit>
+      <trans-unit id="question_22_answer_1_text" resname="question_22_answer_1_text">
+        <source>Charging goes much faster than with a standard household outlet.</source>
+      </trans-unit>
+      <trans-unit id="question_22_answer_2_text" resname="question_22_answer_2_text">
+        <source>The charging timer and preheating / cooling function can only be used when charging via an industrial outlet.</source>
+      </trans-unit>
+      <trans-unit id="question_22_answer_3_text" resname="question_22_answer_3_text">
+        <source>Industrial outlets are designed for a much higher sustained load than household outlets. </source>
+      </trans-unit>
+      <trans-unit id="question_22_answer_4_text" resname="question_22_answer_4_text">
+        <source>A mode 3 cable can also be used when charging with an industrial outlet.</source>
+      </trans-unit>
+      <trans-unit id="question_22_text" resname="question_22_text">
+        <source>What are the advantages of charging via an industrial outlet?</source>
+      </trans-unit>
+      <trans-unit id="question_23_answer_1_text" resname="question_23_answer_1_text">
+        <source>Audi does not offer any way to order a charging dock.</source>
+      </trans-unit>
+      <trans-unit id="question_23_answer_2_text" resname="question_23_answer_2_text">
+        <source>The customer can buy a charging dock via &amp;quot;Audi Genuine Parts and Accessories&amp;quot;. This option may be of great interest for installation at a second location (e.g. vacation home) or for a used e-tron car buyer.</source>
+      </trans-unit>
+      <trans-unit id="question_23_answer_3_text" resname="question_23_answer_3_text">
+        <source>The customer can order the charging dock as an option together with the vehicle.</source>
+      </trans-unit>
+      <trans-unit id="question_23_answer_4_text" resname="question_23_answer_4_text">
+        <source>The customer can order a charging dock via www.audi.com/e-tron.</source>
+      </trans-unit>
+      <trans-unit id="question_23_text" resname="question_23_text">
+        <source>What options does an e-tron customer have to order a charging dock?</source>
+      </trans-unit>
+      <trans-unit id="question_24_answer_1_text" resname="question_24_answer_1_text">
+        <source>green electricity supply</source>
+      </trans-unit>
+      <trans-unit id="question_24_answer_2_text" resname="question_24_answer_2_text">
+        <source>Audi connect e-tron services </source>
+      </trans-unit>
+      <trans-unit id="question_24_answer_3_text" resname="question_24_answer_3_text">
+        <source>residual value guarantee</source>
+      </trans-unit>
+      <trans-unit id="question_24_answer_4_text" resname="question_24_answer_4_text">
+        <source>Audi charging dock </source>
+      </trans-unit>
+      <trans-unit id="question_24_text" resname="question_24_text">
+        <source>Which elements are considered part of the Audi e-tron system?</source>
+      </trans-unit>
+      <trans-unit id="question_25_answer_1_text" resname="question_25_answer_1_text">
+        <source>A certified electrician must verify that fast charging via DC (direct current) is possible.</source>
+      </trans-unit>
+      <trans-unit id="question_25_answer_2_text" resname="question_25_answer_2_text">
+        <source>An Audi Partner is legally required to arrange a home check.</source>
+      </trans-unit>
+      <trans-unit id="question_25_answer_3_text" resname="question_25_answer_3_text">
+        <source>A certified electrician must check the technical conditions for installation of an industrial outlet.</source>
+      </trans-unit>
+      <trans-unit id="question_25_answer_4_text" resname="question_25_answer_4_text">
+        <source>Audi does not generally recommend a home check.</source>
+      </trans-unit>
+      <trans-unit id="question_25_text" resname="question_25_text">
+        <source>Why is a home check at the customer necessary prior to the purchase of an
+e-tron vehicle?</source>
+      </trans-unit>
+      <trans-unit id="question_26_answer_1_text" resname="question_26_answer_1_text">
+        <source>A basic partner cannot perform any work on an e-tron vehicle.  </source>
+      </trans-unit>
+      <trans-unit id="question_26_answer_2_text" resname="question_26_answer_2_text">
+        <source>A support partner is authorized to perform troubleshooting on the high-voltage system.</source>
+      </trans-unit>
+      <trans-unit id="question_26_answer_3_text" resname="question_26_answer_3_text">
+        <source>A basic partner can take in the vehicle, but is not authorized to perform e-tron-specific repair or service work.</source>
+      </trans-unit>
+      <trans-unit id="question_26_answer_4_text" resname="question_26_answer_4_text">
+        <source>An e-tron support partner has the necessary tools and equipment to repair and diagnose e-tron-specific components.</source>
+      </trans-unit>
+      <trans-unit id="question_26_text" resname="question_26_text">
+        <source>How does an e-tron basic partner differ from an e-tron support partner? </source>
+      </trans-unit>
+      <trans-unit id="question_27_answer_1_text" resname="question_27_answer_1_text">
+        <source>The most efficient way of traveling is coasting.</source>
+      </trans-unit>
+      <trans-unit id="question_27_answer_2_text" resname="question_27_answer_2_text">
+        <source>With the electric brake booster, the vehicle can recuperate continuously.</source>
+      </trans-unit>
+      <trans-unit id="question_27_answer_3_text" resname="question_27_answer_3_text">
+        <source>The strength of recuperation can be set in the MMI system.</source>
+      </trans-unit>
+      <trans-unit id="question_27_answer_4_text" resname="question_27_answer_4_text">
+        <source>Recuperation is stronger when the gear selector lever is in position "S".</source>
+      </trans-unit>
+      <trans-unit id="question_27_text" resname="question_27_text">
+        <source>Which of the following statements regarding efficiency and recuperation are true?</source>
+      </trans-unit>
+      <trans-unit id="question_28_answer_1_text" resname="question_28_answer_1_text">
+        <source>There is no active offer; only an information brochure on delivery.</source>
+      </trans-unit>
+      <trans-unit id="question_28_answer_2_text" resname="question_28_answer_2_text">
+        <source>I only offer the customers green electricity if they ask.</source>
+      </trans-unit>
+      <trans-unit id="question_28_answer_3_text" resname="question_28_answer_3_text">
+        <source>after the consultation regarding the installation offer</source>
+      </trans-unit>
+      <trans-unit id="question_28_answer_4_text" resname="question_28_answer_4_text">
+        <source>during the needs analysis</source>
+      </trans-unit>
+      <trans-unit id="question_28_text" resname="question_28_text">
+        <source>At what point of the sales process do I offer the customers green electricity?</source>
+      </trans-unit>
+      <trans-unit id="question_29_answer_1_text" resname="question_29_answer_1_text">
+        <source>The electricity is produced from renewable energy sources. Thus, there is no radioactive waste and no CO2 emissions from coal.</source>
+      </trans-unit>
+      <trans-unit id="question_29_answer_2_text" resname="question_29_answer_2_text">
+        <source>Green electricity suits the innovative Audi brand and its commitment to sustainability. </source>
+      </trans-unit>
+      <trans-unit id="question_29_answer_3_text" resname="question_29_answer_3_text">
+        <source>A vehicle without green electricity is subject to a higher motor vehicle tax.</source>
+      </trans-unit>
+      <trans-unit id="question_29_answer_4_text" resname="question_29_answer_4_text">
+        <source>Green electricity makes the A3 e-tron even more efficient. </source>
+      </trans-unit>
+      <trans-unit id="question_29_text" resname="question_29_text">
+        <source>What are the advantages of green electricity?</source>
+      </trans-unit>
+      <trans-unit id="question_2_answer_1_text" resname="question_2_answer_1_text">
+        <source>one</source>
+      </trans-unit>
+      <trans-unit id="question_2_answer_2_text" resname="question_2_answer_2_text">
+        <source>two</source>
+      </trans-unit>
+      <trans-unit id="question_2_answer_3_text" resname="question_2_answer_3_text">
+        <source>five</source>
+      </trans-unit>
+      <trans-unit id="question_2_answer_4_text" resname="question_2_answer_4_text">
+        <source>unlimited</source>
+      </trans-unit>
+      <trans-unit id="question_2_text" resname="question_2_text">
+        <source>How many timers can you program for battery charging (as well as preheating / cooling)?</source>
+      </trans-unit>
+      <trans-unit id="question_30_answer_1_text" resname="question_30_answer_1_text">
+        <source>The Audi charging dock can accommodate a 9.5 m cable.</source>
+      </trans-unit>
+      <trans-unit id="question_30_answer_2_text" resname="question_30_answer_2_text">
+        <source>The Audi charging dock is lockable to prevent theft of the Audi charging system.</source>
+      </trans-unit>
+      <trans-unit id="question_30_answer_3_text" resname="question_30_answer_3_text">
+        <source>The Audi charging dock features electrically-assisted cable winding.</source>
+      </trans-unit>
+      <trans-unit id="question_30_answer_4_text" resname="question_30_answer_4_text">
+        <source>The Audi charging dock has a high-quality design typical to Audi and is a secure storage area for the charging control unit and cable.</source>
+      </trans-unit>
+      <trans-unit id="question_30_text" resname="question_30_text">
+        <source>What advantages does the charging dock have for the customer?</source>
+      </trans-unit>
+      <trans-unit id="question_31_answer_1_text" resname="question_31_answer_1_text">
+        <source>How many kilometers do you drive on average each year? </source>
+      </trans-unit>
+      <trans-unit id="question_31_answer_2_text" resname="question_31_answer_2_text">
+        <source>How important is CO2-free driving to you?</source>
+      </trans-unit>
+      <trans-unit id="question_31_answer_3_text" resname="question_31_answer_3_text">
+        <source>Do you have a parking space or garage at your residence?</source>
+      </trans-unit>
+      <trans-unit id="question_31_answer_4_text" resname="question_31_answer_4_text">
+        <source>How many kilometers do you drive on average each day?</source>
+      </trans-unit>
+      <trans-unit id="question_31_text" resname="question_31_text">
+        <source>Which specific questions can be used to identify a potential e-tron customer?</source>
+      </trans-unit>
+      <trans-unit id="question_32_answer_1_text" resname="question_32_answer_1_text">
+        <source>the ability to configure the A3 e-tron in the online configurator from presale start</source>
+      </trans-unit>
+      <trans-unit id="question_32_answer_2_text" resname="question_32_answer_2_text">
+        <source>important technical data, such as the electric range</source>
+      </trans-unit>
+      <trans-unit id="question_32_answer_3_text" resname="question_32_answer_3_text">
+        <source>an explanation of the e-tron charging system and charging dock</source>
+      </trans-unit>
+      <trans-unit id="question_32_answer_4_text" resname="question_32_answer_4_text">
+        <source>a comparison with the BMW i3</source>
+      </trans-unit>
+      <trans-unit id="question_32_text" resname="question_32_text">
+        <source>Which options and information can the customer get on the official Audi e-tron website?</source>
+      </trans-unit>
+      <trans-unit id="question_33_answer_1_text" resname="question_33_answer_1_text">
+        <source>image</source>
+      </trans-unit>
+      <trans-unit id="question_33_answer_2_text" resname="question_33_answer_2_text">
+        <source>innovation: &amp;quot;Vorsprung durch Technik&amp;quot;</source>
+      </trans-unit>
+      <trans-unit id="question_33_answer_3_text" resname="question_33_answer_3_text">
+        <source>range requirements</source>
+      </trans-unit>
+      <trans-unit id="question_33_answer_4_text" resname="question_33_answer_4_text">
+        <source>corporate social responsibility</source>
+      </trans-unit>
+      <trans-unit id="question_33_text" resname="question_33_text">
+        <source>Which aspects does an A3 e-tron fleet customer value most when making a purchase?</source>
+      </trans-unit>
+      <trans-unit id="question_34_answer_1_text" resname="question_34_answer_1_text">
+        <source>environmental awareness</source>
+      </trans-unit>
+      <trans-unit id="question_34_answer_2_text" resname="question_34_answer_2_text">
+        <source>innovation, such as &amp;quot;silent driving&amp;quot;</source>
+      </trans-unit>
+      <trans-unit id="question_34_answer_3_text" resname="question_34_answer_3_text">
+        <source>suitability for everyday use</source>
+      </trans-unit>
+      <trans-unit id="question_34_answer_4_text" resname="question_34_answer_4_text">
+        <source>sportiness and efficiency without restrictions in everyday life</source>
+      </trans-unit>
+      <trans-unit id="question_34_text" resname="question_34_text">
+        <source>Which aspects does an A3 e-tron private customer value most when making a purchase?</source>
+      </trans-unit>
+      <trans-unit id="question_35_answer_1_text" resname="question_35_answer_1_text">
+        <source>When the vehicle identification number is entered, the service advisor can see whether the vehicle is an e-tron vehicle (information on the engine).</source>
+      </trans-unit>
+      <trans-unit id="question_35_answer_2_text" resname="question_35_answer_2_text">
+        <source>The service advisor may not perform direct reception for an e-tron vehicle.</source>
+      </trans-unit>
+      <trans-unit id="question_35_answer_3_text" resname="question_35_answer_3_text">
+        <source>Upon arrival, the service advisor must mark the vehicle as an e-tron vehicle using warning signs.</source>
+      </trans-unit>
+      <trans-unit id="question_35_answer_4_text" resname="question_35_answer_4_text">
+        <source>The vehicle should be fully charged prior to handover to the customer.</source>
+      </trans-unit>
+      <trans-unit id="question_35_text" resname="question_35_text">
+        <source>What must the service advisor take into consideration when receiving / returning an e-tron vehicle?</source>
+      </trans-unit>
+      <trans-unit id="question_36_answer_1_text" resname="question_36_answer_1_text">
+        <source>If there is damage to the high-voltage system, the emergency service worker must tow the vehicle to the nearest support partner.</source>
+      </trans-unit>
+      <trans-unit id="question_36_answer_2_text" resname="question_36_answer_2_text">
+        <source>The emergency service worker must have the requisite electrical training.</source>
+      </trans-unit>
+      <trans-unit id="question_36_answer_3_text" resname="question_36_answer_3_text">
+        <source>The emergency service worker must be a high-voltage technician.</source>
+      </trans-unit>
+      <trans-unit id="question_36_answer_4_text" resname="question_36_answer_4_text">
+        <source>If there is damage to the high-voltage system, the emergency service worker must conduct troubleshooting at the breakdown site.</source>
+      </trans-unit>
+      <trans-unit id="question_36_text" resname="question_36_text">
+        <source>Which points must be ensured for emergency service workers?</source>
+      </trans-unit>
+      <trans-unit id="question_37_answer_1_text" resname="question_37_answer_1_text">
+        <source>The benefits are similar to the mobility guarantee for a combustion engine.</source>
+      </trans-unit>
+      <trans-unit id="question_37_answer_2_text" resname="question_37_answer_2_text">
+        <source>Towing can be billed to the nearest Audi Partner.</source>
+      </trans-unit>
+      <trans-unit id="question_37_answer_3_text" resname="question_37_answer_3_text">
+        <source>If it is not possible to offer an adequate e-tron replacement car, the customer can be offered any model.</source>
+      </trans-unit>
+      <trans-unit id="question_37_answer_4_text" resname="question_37_answer_4_text">
+        <source>It is recommended to offer the customer an adequate e-tron replacement car as part of the "Audi for Audi" commitment.</source>
+      </trans-unit>
+      <trans-unit id="question_37_text" resname="question_37_text">
+        <source>Which of the following statements about the mobility guarantee and "Audi for Audi" are correct?</source>
+      </trans-unit>
+      <trans-unit id="question_38_answer_1_text" resname="question_38_answer_1_text">
+        <source>In "Guided troubleshooting".</source>
+      </trans-unit>
+      <trans-unit id="question_38_answer_2_text" resname="question_38_answer_2_text">
+        <source>in &amp;quot;Basic information on high-voltage vehicles&amp;quot; in the Workshop Manual</source>
+      </trans-unit>
+      <trans-unit id="question_38_answer_3_text" resname="question_38_answer_3_text">
+        <source>in &amp;quot;Workshop procedures for high-voltage vehicles&amp;quot;</source>
+      </trans-unit>
+      <trans-unit id="question_38_answer_4_text" resname="question_38_answer_4_text">
+        <source>in the &amp;quot;Service technology manual&amp;quot;</source>
+      </trans-unit>
+      <trans-unit id="question_38_text" resname="question_38_text">
+        <source>In which documents are the general processes of the Audi A3 e-tron at the workshop described?</source>
+      </trans-unit>
+      <trans-unit id="question_39_answer_1_text" resname="question_39_answer_1_text">
+        <source>The car has been washed.</source>
+      </trans-unit>
+      <trans-unit id="question_39_answer_2_text" resname="question_39_answer_2_text">
+        <source>The tire pressure has been checked.</source>
+      </trans-unit>
+      <trans-unit id="question_39_answer_3_text" resname="question_39_answer_3_text">
+        <source>The high-voltage battery is fully charged.</source>
+      </trans-unit>
+      <trans-unit id="question_39_answer_4_text" resname="question_39_answer_4_text">
+        <source>The car is parked in the parking area for high-voltage vehicles.</source>
+      </trans-unit>
+      <trans-unit id="question_39_text" resname="question_39_text">
+        <source>What must be ensured when returning the vehicle to the customer? </source>
+      </trans-unit>
+      <trans-unit id="question_3_answer_1_text" resname="question_3_answer_1_text">
+        <source>with iOS from version 6.0 onwards</source>
+      </trans-unit>
+      <trans-unit id="question_3_answer_2_text" resname="question_3_answer_2_text">
+        <source>with Android from version 2.2.3 onwards</source>
+      </trans-unit>
+      <trans-unit id="question_3_answer_3_text" resname="question_3_answer_3_text">
+        <source>with all currently available operating systems</source>
+      </trans-unit>
+      <trans-unit id="question_3_answer_4_text" resname="question_3_answer_4_text">
+        <source>only with Apple devices</source>
+      </trans-unit>
+      <trans-unit id="question_3_text" resname="question_3_text">
+        <source>With which operating systems can the smartphone app for Audi connect e-tron services be used?</source>
+      </trans-unit>
+      <trans-unit id="question_40_answer_1_text" resname="question_40_answer_1_text">
+        <source>Proceed following the workshop flow chart. </source>
+      </trans-unit>
+      <trans-unit id="question_40_answer_2_text" resname="question_40_answer_2_text">
+        <source>If the airbags or belt tensioners have been triggered, the high-voltage technician must be informed.</source>
+      </trans-unit>
+      <trans-unit id="question_40_answer_3_text" resname="question_40_answer_3_text">
+        <source>The vehicle is not brought into the workshop. It instead brought to the parking area for accident-damaged vehicles.</source>
+      </trans-unit>
+      <trans-unit id="question_40_answer_4_text" resname="question_40_answer_4_text">
+        <source>It is vital that all employees at the dealership who accept e-tron vehicles are made fully aware of the dangers.</source>
+      </trans-unit>
+      <trans-unit id="question_40_text" resname="question_40_text">
+        <source>What must be taken into consideration when an accident-damaged Audi A3 e-tron is brought into the workshop? </source>
+      </trans-unit>
+      <trans-unit id="question_41_answer_1_text" resname="question_41_answer_1_text">
+        <source>Electrician </source>
+      </trans-unit>
+      <trans-unit id="question_41_answer_2_text" resname="question_41_answer_2_text">
+        <source>Mechatronic technician </source>
+      </trans-unit>
+      <trans-unit id="question_41_answer_3_text" resname="question_41_answer_3_text">
+        <source>Electrically trained person</source>
+      </trans-unit>
+      <trans-unit id="question_41_answer_4_text" resname="question_41_answer_4_text">
+        <source>Accident coordinator</source>
+      </trans-unit>
+      <trans-unit id="question_41_text" resname="question_41_text">
+        <source>What are the minimum qualifications required to be able to work on high-voltage components on an Audi A3 e-tron?</source>
+      </trans-unit>
+      <trans-unit id="question_42_answer_1_text" resname="question_42_answer_1_text">
+        <source>Is the customer charging his car at home with Audi charging equipment or away from home at a public charging station?</source>
+      </trans-unit>
+      <trans-unit id="question_42_answer_2_text" resname="question_42_answer_2_text">
+        <source>Is the customer using an Audi charging dock?</source>
+      </trans-unit>
+      <trans-unit id="question_42_answer_3_text" resname="question_42_answer_3_text">
+        <source>What does the charging system display show?</source>
+      </trans-unit>
+      <trans-unit id="question_42_answer_4_text" resname="question_42_answer_4_text">
+        <source>Which electrician installed the outlet at the customer?</source>
+      </trans-unit>
+      <trans-unit id="question_42_text" resname="question_42_text">
+        <source>When there are charging problems, what information is helpful for troubleshooting?</source>
+      </trans-unit>
+      <trans-unit id="question_43_answer_1_text" resname="question_43_answer_1_text">
+        <source>a VAS tester</source>
+      </trans-unit>
+      <trans-unit id="question_43_answer_2_text" resname="question_43_answer_2_text">
+        <source>charging system diagnosis software</source>
+      </trans-unit>
+      <trans-unit id="question_43_answer_3_text" resname="question_43_answer_3_text">
+        <source>charging system of the customer</source>
+      </trans-unit>
+      <trans-unit id="question_43_answer_4_text" resname="question_43_answer_4_text">
+        <source>USB adapter incl. USB connection cable</source>
+      </trans-unit>
+      <trans-unit id="question_43_text" resname="question_43_text">
+        <source>What is required to reset the charging system PIN? </source>
+      </trans-unit>
+      <trans-unit id="question_44_answer_1_text" resname="question_44_answer_1_text">
+        <source>power and vehicle cable</source>
+      </trans-unit>
+      <trans-unit id="question_44_answer_2_text" resname="question_44_answer_2_text">
+        <source>display</source>
+      </trans-unit>
+      <trans-unit id="question_44_answer_3_text" resname="question_44_answer_3_text">
+        <source>control unit</source>
+      </trans-unit>
+      <trans-unit id="question_44_answer_4_text" resname="question_44_answer_4_text">
+        <source>plug-in adapter at the faceplate</source>
+      </trans-unit>
+      <trans-unit id="question_44_text" resname="question_44_text">
+        <source>Which components of an Audi e-tron charging system can be replaced by an 
+Audi Partner if defective?</source>
+      </trans-unit>
+      <trans-unit id="question_45_answer_1_text" resname="question_45_answer_1_text">
+        <source>Proceed following the workshop flow chart.</source>
+      </trans-unit>
+      <trans-unit id="question_45_answer_2_text" resname="question_45_answer_2_text">
+        <source>There is nothing that must be considered.</source>
+      </trans-unit>
+      <trans-unit id="question_45_answer_3_text" resname="question_45_answer_3_text">
+        <source>The customer must turn in the vehicle via the parking area for
+accident-damaged or non-standard vehicles (quarantine area).</source>
+      </trans-unit>
+      <trans-unit id="question_45_answer_4_text" resname="question_45_answer_4_text">
+        <source>A fire extinguisher must be kept at the ready next to the vehicle.</source>
+      </trans-unit>
+      <trans-unit id="question_45_text" resname="question_45_text">
+        <source>What must be taken into consideration when an Audi A3 e-tron comes into the workshop for servicing?</source>
+      </trans-unit>
+      <trans-unit id="question_46_answer_1_text" resname="question_46_answer_1_text">
+        <source>Both basic partners and support partners can accept e-tron vehicles.</source>
+      </trans-unit>
+      <trans-unit id="question_46_answer_2_text" resname="question_46_answer_2_text">
+        <source>A basic partner transports the vehicle to the nearest support partner.</source>
+      </trans-unit>
+      <trans-unit id="question_46_answer_3_text" resname="question_46_answer_3_text">
+        <source>A basic partner must immediately transport the vehicle to an Audi importer.</source>
+      </trans-unit>
+      <trans-unit id="question_46_answer_4_text" resname="question_46_answer_4_text">
+        <source>The cost of transport is invoiced to the customer.</source>
+      </trans-unit>
+      <trans-unit id="question_46_text" resname="question_46_text">
+        <source>How is the vehicle transported in cases where the high-voltage system must be repaired?</source>
+      </trans-unit>
+      <trans-unit id="question_47_answer_1_text" resname="question_47_answer_1_text">
+        <source>The basic partner cannot perform troubleshooting on the high-voltage system.</source>
+      </trans-unit>
+      <trans-unit id="question_47_answer_2_text" resname="question_47_answer_2_text">
+        <source>The basic partner must inform the customer about the transport to a support partner.</source>
+      </trans-unit>
+      <trans-unit id="question_47_answer_3_text" resname="question_47_answer_3_text">
+        <source>The basic partner should refuse to accept the vehicle and send the customer to the nearest support partner.</source>
+      </trans-unit>
+      <trans-unit id="question_47_answer_4_text" resname="question_47_answer_4_text">
+        <source>Only the basic partner can invoice the customer.</source>
+      </trans-unit>
+      <trans-unit id="question_47_text" resname="question_47_text">
+        <source>What must be considered when a customer arrives at a basic partner and the 
+high-voltage warning lamp is lit?</source>
+      </trans-unit>
+      <trans-unit id="question_48_answer_1_text" resname="question_48_answer_1_text">
+        <source>no</source>
+      </trans-unit>
+      <trans-unit id="question_48_answer_2_text" resname="question_48_answer_2_text">
+        <source>Yes, as an option instead of the powermeter.</source>
+      </trans-unit>
+      <trans-unit id="question_48_answer_3_text" resname="question_48_answer_3_text">
+        <source>Yes, in the MMI screen when the optional MMI navigation plus is installed.</source>
+      </trans-unit>
+      <trans-unit id="question_48_answer_4_text" resname="question_48_answer_4_text">
+        <source>Yes, a digital tachometer (revmeter) for the combustion engine can be selected via the driver information system.</source>
+      </trans-unit>
+      <trans-unit id="question_48_text" resname="question_48_text">
+        <source>Does the Audi A3 Sportback e-tron have a tachometer (revmeter)?</source>
+      </trans-unit>
+      <trans-unit id="question_49_answer_1_text" resname="question_49_answer_1_text">
+        <source>The vehicle charging connector is locked into place via the central locking system.</source>
+      </trans-unit>
+      <trans-unit id="question_49_answer_2_text" resname="question_49_answer_2_text">
+        <source>The vehicle charging connector must be locked with the vehicle key.</source>
+      </trans-unit>
+      <trans-unit id="question_49_answer_3_text" resname="question_49_answer_3_text">
+        <source>The LED light field on the vehicle charging port shows the current state of charge.</source>
+      </trans-unit>
+      <trans-unit id="question_49_answer_4_text" resname="question_49_answer_4_text">
+        <source>The current state of charge can be queried in the driver information system.</source>
+      </trans-unit>
+      <trans-unit id="question_49_text" resname="question_49_text">
+        <source>What happens if the vehicle charging connector is inserted in the charging port behind the Audi rings on the Audi A3 Sportback e-tron?</source>
+      </trans-unit>
+      <trans-unit id="question_4_answer_1_text" resname="question_4_answer_1_text">
+        <source>Data is exchanged via a permanently installed GSM/UMTS module (including SIM card).</source>
+      </trans-unit>
+      <trans-unit id="question_4_answer_2_text" resname="question_4_answer_2_text">
+        <source>Data is exchanged via an LTE module (Audi connect).</source>
+      </trans-unit>
+      <trans-unit id="question_4_answer_3_text" resname="question_4_answer_3_text">
+        <source>The customer needs a separate data SIM card.</source>
+      </trans-unit>
+      <trans-unit id="question_4_answer_4_text" resname="question_4_answer_4_text">
+        <source>Data is exchanged via the "rSAP" profile.</source>
+      </trans-unit>
+      <trans-unit id="question_4_text" resname="question_4_text">
+        <source>Which statement about the smartphone app for Audi connect e-tron services is correct?</source>
+      </trans-unit>
+      <trans-unit id="question_50_answer_1_text" resname="question_50_answer_1_text">
+        <source>...5 years and 100,000 km for all high-voltage components.</source>
+      </trans-unit>
+      <trans-unit id="question_50_answer_2_text" resname="question_50_answer_2_text">
+        <source>...5 years and 100,000 km for the high-voltage battery.</source>
+      </trans-unit>
+      <trans-unit id="question_50_answer_3_text" resname="question_50_answer_3_text">
+        <source>...8 years and 160,000 km for all high-voltage components.</source>
+      </trans-unit>
+      <trans-unit id="question_50_answer_4_text" resname="question_50_answer_4_text">
+        <source>...8 years and 160,000 km for the high-voltage battery.</source>
+      </trans-unit>
+      <trans-unit id="question_50_text" resname="question_50_text">
+        <source>The battery of the A3 e-tron has a warranty of...</source>
+      </trans-unit>
+      <trans-unit id="question_5_answer_1_text" resname="question_5_answer_1_text">
+        <source>average electric consumption</source>
+      </trans-unit>
+      <trans-unit id="question_5_answer_2_text" resname="question_5_answer_2_text">
+        <source>average speed</source>
+      </trans-unit>
+      <trans-unit id="question_5_answer_3_text" resname="question_5_answer_3_text">
+        <source>current electric range</source>
+      </trans-unit>
+      <trans-unit id="question_5_answer_4_text" resname="question_5_answer_4_text">
+        <source>vehicle condition (lights, doors, etc.)</source>
+      </trans-unit>
+      <trans-unit id="question_5_text" resname="question_5_text">
+        <source>Which functions can be displayed via the Audi connect e-tron app?</source>
+      </trans-unit>
+      <trans-unit id="question_6_answer_1_text" resname="question_6_answer_1_text">
+        <source>immediate start / stop of charging</source>
+      </trans-unit>
+      <trans-unit id="question_6_answer_2_text" resname="question_6_answer_2_text">
+        <source>immediate start / stop of heating / cooling</source>
+      </trans-unit>
+      <trans-unit id="question_6_answer_3_text" resname="question_6_answer_3_text">
+        <source>timer programming</source>
+      </trans-unit>
+      <trans-unit id="question_6_answer_4_text" resname="question_6_answer_4_text">
+        <source>locking the vehicle</source>
+      </trans-unit>
+      <trans-unit id="question_6_text" resname="question_6_text">
+        <source>Which functions can be programmed and controlled remotely via the 
+Audi connect e-tron app?</source>
+      </trans-unit>
+      <trans-unit id="question_7_answer_1_text" resname="question_7_answer_1_text">
+        <source>Through its plug-in hybrid concept, the Audi is suitable for everyday use.</source>
+      </trans-unit>
+      <trans-unit id="question_7_answer_2_text" resname="question_7_answer_2_text">
+        <source>Both vehicles have limited comfort over long distances.</source>
+      </trans-unit>
+      <trans-unit id="question_7_answer_3_text" resname="question_7_answer_3_text">
+        <source>The e-tron is based on a classic vehicle concept, but differs from the conventional A3 Sportback through e-tron-specific features.</source>
+      </trans-unit>
+      <trans-unit id="question_7_answer_4_text" resname="question_7_answer_4_text">
+        <source>The BMW i3 has a larger luggage compartment, but at most the package has a 9 liter fuel tank and a 2-cylinder combustion engine (range extender).  </source>
+      </trans-unit>
+      <trans-unit id="question_7_text" resname="question_7_text">
+        <source>What are the main similarities and differences between the Audi A3 e-tron and the BMW i3?</source>
+      </trans-unit>
+      <trans-unit id="question_8_answer_1_text" resname="question_8_answer_1_text">
+        <source>The high-voltage battery can be cooled down.</source>
+      </trans-unit>
+      <trans-unit id="question_8_answer_2_text" resname="question_8_answer_2_text">
+        <source>The combustion engine is at operating temperature.</source>
+      </trans-unit>
+      <trans-unit id="question_8_answer_3_text" resname="question_8_answer_3_text">
+        <source>The interior is at the desired temperature.</source>
+      </trans-unit>
+      <trans-unit id="question_8_answer_4_text" resname="question_8_answer_4_text">
+        <source>The electric range is not compromised through preheating / cooling to the desired temperature since the energy for this comes directly from the power outlet and not from the high-voltage battery, presuming the vehicle is connected to an outlet.</source>
+      </trans-unit>
+      <trans-unit id="question_8_text" resname="question_8_text">
+        <source>What are the benefits of preheating / cooling the A3 e-tron?</source>
+      </trans-unit>
+      <trans-unit id="question_9_answer_1_text" resname="question_9_answer_1_text">
+        <source>CO2 emissions 35 g/km (ECE standard, 16-inch wheels) with acceleration of 7.6 s (0-100 km/h)</source>
+      </trans-unit>
+      <trans-unit id="question_9_answer_2_text" resname="question_9_answer_2_text">
+        <source>top speed, purely electric 130 km/h, total 222 km/h</source>
+      </trans-unit>
+      <trans-unit id="question_9_answer_3_text" resname="question_9_answer_3_text">
+        <source>purely electric range up to 50 km, total range up to 940 km</source>
+      </trans-unit>
+      <trans-unit id="question_9_answer_4_text" resname="question_9_answer_4_text">
+        <source>system power max. 150 kW (204 hp), system torque max. 350 Nm</source>
+      </trans-unit>
+      <trans-unit id="question_9_text" resname="question_9_text">
+        <source>Through its plug-in hybrid concept, the A3 e-tron combines sportiness with efficiency and suitability for everyday use. Which of the following information is correct?</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

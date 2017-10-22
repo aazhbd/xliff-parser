@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0">
+  <file datatype="plaintext" original="flashbeam" source-language="de">
+    <header/>
+    <body>
+	  <trans-unit id="" resname="pdf_text_1">
+        <source>Audi A3 Sportback e-tron</source>
+      </trans-unit>
+	  
+	  <trans-unit id="" resname="pdf_text_2">
+        <source>Zertifizierungsfragen</source>
+      </trans-unit>
+	  
+	  <trans-unit id="" resname="pdf_text_3">
+        <source>Nutzen Sie diesen Fragenkatalog, um sich intensiv auf das e-tron Expertentraining und die damit verbundene Zertifizierung vorzubereiten.
+
+Informieren Sie sich dazu mithilfe von allen Ihnen zur Verfügung stehenden Medien, wie z.B. WBT, Website, etc. zum Audi A3 Sportback e-tron.</source>
+      </trans-unit>
+	
+	
+	  <trans-unit id="" resname="question_1_text">
+        <source>Welche Voraussetzungen müssen erfüllt sein, damit ein Kunde die Audi connect e-tron Dienste vollumfänglich nutzen kann? </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_1_answer_1_text"> 
+        <source>Er muss sich auf myAudi registrieren.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_1_answer_2_text"> 
+        <source>Er muss die MMI Navigation plus sowie Audi connect im Fahrzeug haben.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_1_answer_3_text"> <!-- correct -->
+        <source>Er muss sich auf dem Audi A3 e-tron Portal registrieren.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_1_answer_4_text"> <!-- correct -->
+        <source>Das mobile Endgerät muss mit der App kompatibel sein.</source>
+      </trans-unit>
+	  
+	  <trans-unit id="" resname="question_2_text">
+        <source>Wie viele Timer können Sie für das Laden der Batterie (und Vorklimatisierung) programmieren? </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_2_answer_1_text">
+        <source>einen</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_2_answer_2_text"> <!-- correct -->
+        <source>zwei</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_2_answer_3_text">
+        <source>fünf</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_2_answer_4_text">
+        <source>unbegrenzt</source>
+      </trans-unit>
+	  
+	  <trans-unit id="" resname="question_3_text">
+        <source>Für welche Betriebssysteme ist die Smartphone App der Audi connect e-tron Dienste geeignet?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_3_answer_1_text"> <!-- correct -->
+        <source>für iOS ab Version 6.0</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_3_answer_2_text"> <!-- correct -->
+        <source>für Android ab Version 2.2.3</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_3_answer_3_text">
+        <source>Für alle derzeit verfügbaren Betriebssysteme.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_3_answer_4_text">
+        <source>nur für Apple Geräte</source>
+      </trans-unit>
+	  
+	  <trans-unit id="" resname="question_4_text">
+        <source>Welche Aussage zur Smartphone App der Audi connect e-tron Dienste ist korrekt?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_4_answer_1_text"> <!-- correct -->
+        <source>Der Datenaustausch erfolgt über ein fest verbautes GSM/UMTS-Modul (SIM-Karte inklusive).</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_4_answer_2_text">
+        <source>Der Datenaustausch erfolgt über das LTE-Modul (Audi connect).</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_4_answer_3_text">
+        <source>Der Kunde braucht eine separate Daten-SIM-Karte.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_4_answer_4_text">
+        <source>Der Datenaustausch erfolgt über das Profil „rSAP“.</source>
+      </trans-unit>
+	  
+	  <trans-unit id="" resname="question_5_text">
+        <source>Welche Funktionen lassen sich über die Audi connect e-tron App anzeigen?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_5_answer_1_text"> <!-- correct -->
+        <source>durchschnittlicher elektrischer Verbrauch</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_5_answer_2_text"> <!-- correct -->
+        <source>durchschnittliche Geschwindigkeit</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_5_answer_3_text"> <!-- correct -->
+        <source>aktuelle elektrische Reichweite</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_5_answer_4_text"> <!-- correct -->
+        <source>Fahrzeugzustand (Licht, Türen, etc.)</source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_6_text">
+        <source>Welche Funktionen lassen sich über die Audi connect e-tron App programmieren bzw. fernsteuern? </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_6_answer_1_text"> <!-- correct -->
+        <source>Laden sofort starten/stoppen</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_6_answer_2_text"> <!-- correct -->
+        <source>Klimatisierung sofort starten/stoppen</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_6_answer_3_text"> <!-- correct -->
+        <source>Timer-Programmierung</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_6_answer_4_text">
+        <source>Fahrzeug verriegeln</source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_7_text">
+        <source>Was sind die wesentlichen Gemeinsamkeiten und Unterschiede des Audi A3 e-tron zum BMW i3?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_7_answer_1_text"> <!-- correct -->
+        <source>Durch sein Plug-In-Hybrid-Konzept besticht der Audi in Punkto Alltagstauglichkeit.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_7_answer_2_text">
+        <source>Beide Fahrzeuge haben eine eingeschränkte Langstreckentauglichkeit.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_7_answer_3_text"> <!-- correct -->
+        <source>Der e-tron basiert auf einem klassischen Fahrzeugkonzept, unterscheidet sich aber durch e-tron spezifische Highlights vom konventionellen A3 Sportback.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_7_answer_4_text">
+        <source>Der BMW i3 hat einen größeren Kofferraum, weil im Package maximal ein 9 l Kraftstofftank und ein 2-Zylinder Verbrennungsmotor vorgesehen sind (Range Extender).  </source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_8_text"> 
+        <source>Welche Vorteile bringt die Vorklimatisierung beim A3 e-tron?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_8_answer_1_text"> <!-- correct -->
+        <source>Hochvolt-Batterie kann aktiv gekühlt werden.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_8_answer_2_text">
+        <source>Verbrennungsmotor hat Betriebstemperatur.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_8_answer_3_text"> <!-- correct -->
+        <source>Innenraum ist auf Wunschtemperatur klimatisiert.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_8_answer_4_text"> <!-- correct -->
+        <source>Durch Klimatisierung auf Wunschtemperatur geht keine elektrische Reichweite verloren, da die Energie hierfür direkt aus dem Stromnetz und nicht aus der Hochvolt-Batterie kommt, sofern das Fahrzeug zu diesem Zeitpunkt an das Stromnetz angeschlossen ist.</source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_9_text">
+        <source>Durch sein Plug-In-Hybrid-Konzept vereint der A3 e-tron Sportlichkeit mit Effizienz und Alltagstauglichkeit. Welche Aussagen treffen zu?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_9_answer_1_text"> <!-- correct -->
+        <source>CO2-Emission 35 g/km (ECE-Norm, 16-Zoll Bereifung) bei einer Beschleunigung von 7,6 s (0-100 km/h).</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_9_answer_2_text"> <!-- correct -->
+        <source>Höchstgeschwindigkeit rein elektrisch 130 km/h, insgesamt 222 km/h.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_9_answer_3_text"> <!-- correct -->
+        <source>Rein elektrische Reichweite bis zu 50 km, Gesamtreichweite bis zu 940 km.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_9_answer_4_text"> <!-- correct -->
+        <source>Systemleistung max. 150 kW (204 PS), Systemdrehmoment max. 350 Nm.</source>
+      </trans-unit>
+
+	  
+	  
+	  
+	  <trans-unit id="" resname="question_10_text">
+        <source>Welche Aussagen zur EV-Taste treffen zu?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_10_answer_1_text">
+        <source>Um den EV-Modus zu aktivieren muss sie einmal gedrückt werden.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_10_answer_2_text"> <!-- correct -->
+        <source>Sie funktioniert ähnlich der Audi drive select Taste: Bei einmaligem Drücken wird für kurze Zeit der aktuelle Modus angezeigt. Wird ein weiteres Mal gedrückt, wechselt man in den nächsten Modus.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_10_answer_3_text">
+        <source>Beim e-tron wird die Taste für Audi drive select durch die EV-Taste ersetzt.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_10_answer_4_text">
+        <source>Wenn der Ladezustand der Hochvolt-Batterie zu gering zum rein elektrischen Fahren ist, ist die Taste ohne Funktion. </source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_11_text">
+        <source>Wie lange dauert ein kompletter Ladevorgang des A3 e-tron etwa?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_11_answer_1_text"> <!-- correct -->
+        <source>2 h 15 min an einer Industriesteckdose, wenn an der Bedieneinheit 100% Ladeleistung eingestellt wurde.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_11_answer_2_text">
+        <source>1 h 15 min an einer Schnelladesäule.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_11_answer_3_text"> <!-- correct -->
+        <source>3 h 45 min an einer Haushaltssteckdose (in Deutschland).</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_11_answer_4_text">
+        <source>2 h 15 min, unabhängig von der Art der Steckdose. </source>
+      </trans-unit>
+	  
+	  <trans-unit id="" resname="question_12_text">
+        <source>Der Audi A3 e-tron ist voll alltagstauglich. Welche damit verbundenen Aussagen treffen zu?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_12_answer_1_text">
+        <source>4-Sitzigkeit ist die einzige Einschränkung im Innenraum. </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_12_answer_2_text"> <!-- correct -->
+        <source>Der Kofferraum-Ladeboden befindet sich im oberen Niveau, lediglich auf den Stauraum darunter muss verzichtet werden.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_12_answer_3_text"> <!-- correct -->
+        <source>Der A3 e-tron ist durch seine Reichweite von bis zu 940 km z.B. auch für Wochenendausflüge geeignet.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_12_answer_4_text"> <!-- correct -->
+        <source>Mit dem e-tron Ladesystem kann das Fahrzeug zu Hause und unterwegs (z.B. im Hotel) sowohl an Haushalts- als auch Industriesteckdosen geladen werden. </source>
+      </trans-unit>
+	  
+	  <trans-unit id="" resname="question_13_text">
+        <source>Welche Aussagen treffen auf den EV- und Hybrid Auto-Modus zu?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_13_answer_1_text"> <!-- correct -->
+        <source>Wenn der EV-Modus aktiviert ist, fährt das Fahrzeug rein elektrisch, außer der Fahrer fordert dem Fahrzeug zu viel Leistung ab (Kick-Down).</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_13_answer_2_text"> <!-- correct -->
+        <source>Das Fahrzeug startet immer im EV-Modus, wenn die Batterieladung ausreichend ist und die Außentemperatur nicht weniger als -10 °C beträgt. </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_13_answer_3_text"> <!-- correct -->
+        <source>Der Auto-Modus bietet sich an, wenn bis zur nächsten Lademöglichkeit eine deutlich längere Strecke als 50 km gefahren wird.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_13_answer_4_text"> <!-- correct -->
+        <source>Im Auto-Modus entscheidet das Fahrzeug selbständig, welcher Antriebe gerade der Effizienteste ist. </source>
+      </trans-unit>
+	  
+	  <trans-unit id="" resname="question_14_text">
+        <source>Wann machen der Hybrid Hold- und Hybrid Charge-Modus des Audi A3 e-tron Sinn?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_14_answer_1_text"> <!-- correct -->
+        <source>Hybrid Hold: Um die aktuelle elektrische Restreichweite später zu nutzen, wenn bis dahin keine weitere Lademöglichkeit besteht. </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_14_answer_2_text">
+        <source>Hybrid Hold: Immer wenn die Batterie vollgeladen ist.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_14_answer_3_text">
+        <source>Hybrid Charge:	Muss aktiviert werden, bevor der A3 e-tron an der Steckdose aufgeladen wird. </source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_14_answer_4_text"> <!-- correct -->
+        <source>Hybrid Charge: Nur dann, wenn der Fahrer später unbedingt noch elektrisch fahren will (z.B. um bei der Ankunft elektrisches Fahren zu demonstrieren) und die aktuelle Restreichweite dafür nicht ausreicht. </source>
+      </trans-unit>
+	  
+	  <trans-unit id="" resname="question_15_text">
+        <source>Was passiert, wenn mit dem Getriebe-Wählhebel die Getriebestellung „S“ aktiviert wird?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_15_answer_1_text">
+        <source>Die Audi drive select Einstellung wechselt auf „dynamic“. </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_15_answer_2_text"> <!-- correct -->
+        <source>Das Fahrzeug fährt nicht mehr rein elektrisch und wechselt in den Modus Hybrid Hold. Der Verbrennungsmotor ist während der Fahrt aktiv. </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_15_answer_3_text"> <!-- correct -->
+        <source>Motor und Getriebe verhalten sich deutlich sportlicher.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_15_answer_4_text"> <!-- correct -->
+        <source>Im Schubbetrieb ist eine deutliche Rekuperation zu spüren, das Fahrzeug segelt nicht. </source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_16_text">
+        <source>Welche Aussage trifft auf öffentliches Laden (z.B. an einer Wechselstrom-Ladesäule) des Audi A3 e-tron zu?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_16_answer_1_text">
+        <source>Öffentliches Laden ist mit dem serienmäßigen e-tron Ladeequipment möglich. </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_16_answer_2_text"> <!-- correct -->
+        <source>Das serienmäßige e-tron Ladeequipment kann nur für Laden an Haushalts- und Industriesteckdosen verwendet werden, aber nicht für öffentliches Laden.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_16_answer_3_text"> <!-- correct -->
+        <source>Für öffentliches Laden ist über Audi Original Teile ein e-tron Ladekabel (Mode 3) erhältlich. Das Kabel ist auch als Sonderausstattung wählbar. </source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_16_answer_4_text"> <!-- correct -->
+        <source>Im A3 e-tron ist nur AC-Laden (Wechselstrom) möglich, DC-Laden (Gleichstrom/sog. „Schnelladen“) ist nicht möglich. </source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_17_text">
+        <source>Der Ladestecker ist am A3 e-tron angeschlossen. Welche damit verbundenen Aussagen sind richtig?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_17_answer_1_text"> <!-- correct -->
+        <source>Über 2 Tasten am Ladeanschluss kann der Fahrer zwischen sofortigem Laden und zeitverzögertem Laden wählen.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_17_answer_2_text">
+        <source>2-maliges Leuchten aller Blinker signalisiert, dass das Kabel richtig verbunden ist. </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_17_answer_3_text"> <!-- correct -->
+        <source>Der Stecker wird über die Zentralverriegelung mit verriegelt. Ein Abziehen des Ladesteckers während des Ladebetriebs ist nicht möglich. </source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_17_answer_4_text"> <!-- correct -->
+        <source>Solange der Ladestecker an der Ladeeinheit des Fahrzeuges angeschlossen ist, kann das Fahrzeug nicht gestartet werden.</source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_18_text">
+        <source>Welche Aussagen treffen auf das erweiterte Wettbewerbsumfeld des A3 e-tron zu?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_18_answer_1_text"> <!-- correct -->
+        <source>Der Toyota Prius Plug-In erreicht die Leistungsdaten des A3 e-tron weder in Punkto Sportlichkeit, noch beim Thema Umweltfreundlichkeit.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_18_answer_2_text"> <!-- correct -->
+        <source>Der Toyota Prius Plug-In hat trotz der Hybrid-Kompetenz von Toyota nur eine elektrische Reichweite von ca. 25 km.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_18_answer_3_text">
+        <source>Der BMW i3 mit der Option Range Extender hat eine alltagstaugliche Gesamtreichweite auf Niveau des A3 e-tron.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_18_answer_4_text"> <!-- correct -->
+        <source>Der BMW i3 hat Beschleunigungswerte (0-100 km/h) auf Niveau des A3 e-tron (als Elektrofahrzeug etwas kürzer, als Range Extender etwas länger), aber lediglich eine Höchstgeschwindigkeit von 150 km/h.</source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_19_text">
+        <source>Welche Aussagen treffen auf den Drucktank des Audi A3 e-tron zu?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_19_answer_1_text">
+        <source>Unter hohem Druck kann mehr Benzin gespeichert werden. Nur so ist eine lange Reichweite möglich. </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_19_answer_2_text"> <!-- correct -->
+        <source>Die Tankklappe muss per Taste in der Fahrertür geöffnet werden.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_19_answer_3_text"> <!-- correct -->
+        <source>Es wird verhindert, dass dem Kunden beim Tanken ein Benzin-Luft-Gemisch entgegen kommt. </source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_19_answer_4_text"> <!-- correct -->
+        <source>Der Drucktank ist notwendig, weil im elektrischen Betrieb gasförmige Kohlen-Wasserstoff-Verbindungen nicht mit dem Motor verbrannt werden und diese deshalb vor der Betankung über den Aktivkohlefilter gezielt gefiltert/gespült werden.</source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_20_text">
+        <source>Was ist im Umgang mit dem Audi A3 e-tron zu beachten?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_20_answer_1_text">
+        <source>Wegen der Hochvolt-Komponenten dürfen keine Waschstraßen genutzt werden.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_20_answer_2_text"> <!-- correct -->
+        <source>Das Fahrzeug bewegt sich im elektrischen Betrieb fast lautlos und ist für Passanten kaum zu hören.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_20_answer_3_text">
+        <source>Das Fahrzeug darf 12-V-Starthilfe empfangen (wenn 12-V-Batterie leer ist), es darf aber keine Starthilfe geben!</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_20_answer_4_text"> <!-- correct -->
+        <source>Die orangefarbenen Hochvoltkabel dürfen nicht beschädigt, verändert, ausgebaut oder vom Hochvoltsystem getrennt werden.</source>
+      </trans-unit>
+
+
+	  
+	  
+	  <trans-unit id="" resname="question_21_text">
+        <source>Welche Einstellungen kann der Kunde an der Lade-Bedieneinheit vornehmen?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_21_answer_1_text">
+        <source>Ladedauer</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_21_answer_2_text"> <!-- correct -->
+        <source>Ladeleistung 50% oder 100% beim Anschluss an Industriesteckdose</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_21_answer_3_text"> <!-- correct -->
+        <source>PIN-Eingabe, um unbefugte Nutzung zu vermeiden</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_21_answer_4_text"> <!-- correct -->
+        <source>Ladeleistung 50% oder 100% beim Anschluss an Haushaltssteckdose</source>
+      </trans-unit>
+	  
+	  <trans-unit id="" resname="question_22_text">
+        <source>Was sind die Vorteile des Ladens an einer Industriesteckdose?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_22_answer_1_text"> <!-- correct -->
+        <source>Es ist deutlich schneller als an einer handelsüblichen Haushaltssteckdose.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_22_answer_2_text">
+        <source>Ausschließlich beim Laden an Industriesteckdosen kann der Ladetimer und die Vorklimatisierungsfunktion genutzt werden. </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_22_answer_3_text"> <!-- correct -->
+        <source>Industriesteckdosen sind für eine deutlich höhere Dauerlast ausgelegt als Haushaltssteckdosen. </source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_22_answer_4_text">
+        <source>Beim Laden an einer Industriesteckdose kann auch das Mode 3 Kabel verwendet werden.</source>
+      </trans-unit>
+	  
+	  <trans-unit id="" resname="question_23_text">
+        <source>Welche Optionen hat ein e-tron Kunde, ein Lade-Dock zu bestellen?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_23_answer_1_text"> 
+        <source>Audi bietet keine Möglichkeit, ein Lade-Dock zu bestellen.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_23_answer_2_text"> <!-- correct -->
+        <source>Der Kunde kauft das Lade-Dock über "Audi Original Teile und Zubehör". Diese Option kann z.B. für das Nutzen an einem zweiten Ladeort (z.B. Ferienhaus) oder einen e-tron Gebrauchtwagenkäufer von hohem Interesse sein. </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_23_answer_3_text"> <!-- correct -->
+        <source>Der Kunde bestellt das Lade-Dock gemeinsam mit dem Fahrzeug als Sonderausstattung.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_23_answer_4_text">
+        <source>Der Kunde kann ein Lade-Dock online über www.audi.com/e-tron bestellen.</source>
+      </trans-unit>
+	  
+	  <trans-unit id="" resname="question_24_text">
+        <source>Welche Elemente zählen zum Audi e-tron Systemangebot?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_24_answer_1_text"> <!-- correct -->
+        <source>Grünstrom Angebot</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_24_answer_2_text"> <!-- correct -->
+        <source>Audi connect e-tron Dienste </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_24_answer_3_text">
+        <source>Restwertgarantie</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_24_answer_4_text"> <!-- correct -->
+        <source>Audi Lade-Dock </source>
+      </trans-unit>
+	  
+	  <trans-unit id="" resname="question_25_text">
+        <source>Warum ist vor Kauf eines e-tron Fahrzeugs ein Homecheck beim Kunden notwendig?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_25_answer_1_text">
+        <source>Ein zertifizierter Elektriker muss überprüfen, ob eine Schnellladung mittels DC (= Gleichstrom) möglich ist.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_25_answer_2_text">
+        <source>Ein Audi Handelspartner ist rechtlich dazu verpflichtet, einen Homecheck zu veranlassen.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_25_answer_3_text"> <!-- correct -->
+        <source>Ein zertifizierter Elektriker überprüft die technischen Voraussetzungen zur Installation einer Industrie-Steckdose.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_25_answer_4_text">
+        <source>Ein Homecheck wird von Audi generell nicht empfohlen.</source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_26_text">
+        <source>Was unterscheidet einen e-tron Basispartner von einem e-tron Stützpunktpartner? </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_26_answer_1_text">
+        <source>Der Basispartner darf keinerlei Arbeiten an einem e-tron Fahrzeug durchführen.  </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_26_answer_2_text"> <!-- correct -->
+        <source>Der Stützpunktpartner ist zur Fehlersuche am Hochvoltsystem berechtigt.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_26_answer_3_text"> <!-- correct -->
+        <source>Der Basispartner darf das Fahrzeug annehmen und nicht e-tron spezifische Reparaturen sowie Service durchführen.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_26_answer_4_text"> <!-- correct -->
+        <source>Der e-tron Stützpunktpartner hält entsprechende Werkzeuge und Equipment zur Reparatur bzw. Diagnose e-tron spezifischer Komponenten vor.</source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_27_text">
+        <source>Welche Aussage stimmt bezüglich Effizienz und Rekuperation?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_27_answer_1_text"> <!-- correct -->
+        <source>Die effizienteste Art der Fortbewegung ist zu segeln.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_27_answer_2_text"> <!-- correct -->
+        <source>Mit dem elektrischen Bremskraftverstärker kann ich stufenlos rekuperieren.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_27_answer_3_text">
+        <source>Die Stärke der Rekuperation kann im MMI-System eingestellt werden.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_27_answer_4_text"> <!-- correct -->
+        <source>In Getriebe-Wählhebel Position "S" wird stärker rekuperiert.</source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_28_text">
+        <source>Zu welchem Zeitpunkt im Verkaufsprozess biete ich dem Kunden Grünstrom an?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_28_answer_1_text">
+        <source>Es gibt kein aktives Angebot, sondern lediglich eine Infobroschüre bei der Auslieferung.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_28_answer_2_text">
+        <source>Ich biete dem Kunden erst auf aktive Nachfrage Grünstrom an.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_28_answer_3_text"> <!-- correct -->
+        <source>Nach der Beratung zum Installationsangebot.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_28_answer_4_text">
+        <source>Bereits bei der Bedarfsanalyse.</source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_29_text">
+        <source>Welche Vorteile bietet Grünstrom?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_29_answer_1_text"> <!-- correct -->
+        <source>Der Strom wird aus erneuerbaren Energien gewonnen. Somit entsteht kein radioaktiver Abfall und keine CO2-Emissionen aus Kohle.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_29_answer_2_text"> <!-- correct -->
+        <source>Grünstrom passt zur innovativen Marke Audi und ihrem Engagement für mehr Nachhaltigkeit. </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_29_answer_3_text">
+        <source>Ohne Grünstrom fällt eine höhere Kraftfahrzeugsteuer an.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_29_answer_4_text">
+        <source>Grünstrom macht den A3 e-tron besonders effizient. </source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_30_text">
+        <source>Welche Vorteile bietet das Lade-Dock für den Kunden?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_30_answer_1_text">
+        <source>Das Audi Lade-Dock bietet Platz für 9,5 m Kabel.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_30_answer_2_text"> <!-- correct -->
+        <source>Das Audi Lade-Dock ist abschließbar um einen Diebstahl des Audi Ladesystems zu verhindern.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_30_answer_3_text">
+        <source>Das Audi Lade-Dock verfügt über eine elektrisch unterstütze Kabelaufwicklung.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_30_answer_4_text"> <!-- correct -->
+        <source>Das Audi Lade-Dock besitzt ein hochwertiges Audi-typisches Design und bildet einen sicheren Aufbewahrungsort für die Lade-Bedieneinheit inkl. Kabel.</source>
+      </trans-unit>	  
+	  
+
+	  
+	  <trans-unit id="" resname="question_31_text">
+        <source>Was sind spezifische Fragen, um einen potentiellen e-tron Kunden zu identifizieren?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_31_answer_1_text">
+        <source>Wie viel Kilometer fahren Sie durchschnittlich pro Jahr? </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_31_answer_2_text"> <!-- correct -->
+        <source>Wie wichtig ist Ihnen CO2 freies Fahren für Sie?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_31_answer_3_text"> <!-- correct -->
+        <source>Haben Sie an ihrem Wohnort einen Stellplatz bzw. eine Garage?</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_31_answer_4_text"> <!-- correct -->
+        <source>Wie viele Kilometer fahren Sie durchschnittlich pro Tag?</source>
+      </trans-unit>
+	  
+	  <trans-unit id="" resname="question_32_text">
+        <source>Welche Möglichkeiten und Informationen bekommt ein Kunde auf der offiziellen Audi Homepage zum Thema e-tron?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_32_answer_1_text"> <!-- correct -->
+        <source>Möglichkeit zur Konfiguration des A3 e-tron im Online-Konfigurator ab Start Vorverkauf</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_32_answer_2_text"> <!-- correct -->
+        <source>Wichtige technische Daten, wie z.B. die elektrische Reichweite</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_32_answer_3_text"> <!-- correct -->
+        <source>Erläuterung zum e-tron Ladesystem und Ladedock </source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_32_answer_4_text">
+        <source>Wettbewerbsvergleich zu BMW i3  </source>
+      </trans-unit>
+	  
+	  <trans-unit id="" resname="question_33_text">
+        <source>Welche Aspekte stehen für einen A3 e-tron Flottenkunden bei einem Kauf im Vordergrund?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_33_answer_1_text"> <!-- correct -->
+        <source>das Image</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_33_answer_2_text"> <!-- correct -->
+        <source>Innovation: "Vorsprung durch Technik"</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_33_answer_3_text"> <!-- correct -->
+        <source>Reichweitenanforderung </source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_33_answer_4_text"> <!-- correct -->
+        <source>Corporate Social Responsibility </source>
+      </trans-unit>
+	  
+	  <trans-unit id="" resname="question_34_text">
+        <source>Welche Hauptaspekte stehen für einen A3 e-tron Privatkunden bei einem Kauf im Vordergrund?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_34_answer_1_text"> <!-- correct -->
+        <source>Umweltbewusstsein</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_34_answer_2_text"> <!-- correct -->
+        <source>Innovationsbereitschaft, z.B. wegen "lautlosem Fahren"</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_34_answer_3_text"> <!-- correct -->
+        <source>Alltagstauglichkeit</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_34_answer_4_text"> <!-- correct -->
+        <source>Sportlichkeit und Effizienz ohne Einschränkungen im Alltag</source>
+      </trans-unit>
+	  
+	  <trans-unit id="" resname="question_35_text">
+        <source>Was muss der Serviceberater bei der e-tron Fahrzeugannahme/-rückgabe beachten?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_35_answer_1_text"> <!-- correct -->
+        <source>Über die Eingabe der Fahrgestellnummer erkennt der Serviceberater, ob es sich um einen e-tron handelt (Angabe der Motorisierung).</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_35_answer_2_text">
+        <source>Der Serviceberater darf an einem e-tron Fahrzeug keine Direktannahme durchführen.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_35_answer_3_text"> <!-- correct -->
+        <source>Der Serviceberater muss, bei Eintreffen des Fahrzeuges, dieses mithilfe von Warnschildern als e-tron Fahrzeug kennzeichnen.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_35_answer_4_text"> <!-- correct -->
+        <source>Das Fahrzeug sollte vor der Übergabe an den Kunden vollständig geladen werden.</source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_36_text">
+        <source>Welche Punkte sind durch den Notdienstmitarbeiter sicherzustellen?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_36_answer_1_text"> <!-- correct -->
+        <source>Der Notdienstmitarbeiter schleppt das Fahrzeug bei Schäden am Hochvolt-System zum nächstgelegenen Stützpunktpartner.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_36_answer_2_text"> <!-- correct -->
+        <source>Der Notdienstmitarbeiter ist eine elektrisch unterwiesene Person.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_36_answer_3_text">
+        <source>Der Notdienstmitarbeiter ist Hochvolttechniker.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_36_answer_4_text">
+        <source>Der Notdienstmitarbeiter führt bei Schäden am Hochvolt-System eine Fehlersuche am Pannenort durch.</source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_37_text">
+        <source>Welche der folgenden Aussagen zum Thema Leistungen der Mobilitätsgarantie und „Audi for Audi“ sind korrekt?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_37_answer_1_text"> <!-- correct -->
+        <source>Die Leistungen sind analog der Mobilitätsgarantie mit Verbrennungsmotor.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_37_answer_2_text">
+        <source>Das Abschleppen kann nur bis zum nächstgelegenen Audi Partner abgerechnet werden.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_37_answer_3_text">
+        <source>Falls kein Angebot eines adäquaten e-tron Ersatzwagens möglich ist, kann dem Kunden jedes Modell angeboten werden.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_37_answer_4_text"> <!-- correct -->
+        <source>Es wird empfohlen dem Kunden einen adäquaten e-tron Ersatzwagen im Rahmen von "Audi for Audi" zur Verfügung zu stellen.</source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_38_text">
+        <source>In welchen Dokumenten wird der allgemeine Umgang in der Werkstatt mit dem Audi A3 e-tron beschrieben?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_38_answer_1_text">
+        <source>In der „Geführten Fehlersuche“.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_38_answer_2_text"> <!-- correct -->
+        <source>In den „Basisinformationen Hochvoltfahrzeuge“ im Reparaturleitfaden. </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_38_answer_3_text"> <!-- correct -->
+        <source>Im „Werkstattablauf für Hochvoltfahrzeuge“.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_38_answer_4_text">
+        <source>Im „Handbuch Service Technik“.</source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_39_text">
+        <source>Was ist bei der Fahrzeugrückgabe an den Kunden zu beachten? </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_39_answer_1_text"> <!-- correct -->
+        <source>Das Auto ist gewaschen.</source> 
+      </trans-unit>
+      <trans-unit id="" resname="question_39_answer_2_text">
+        <source>Der Reifendruck wurde kontrolliert.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_39_answer_3_text"> <!-- correct -->
+        <source>Die Hochvolt-Batterie ist vollgeladen.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_39_answer_4_text">
+        <source>Das Auto wird auf den Parkplatz für Hochvolt-Fahrzeuge abgestellt.</source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_40_text">
+        <source>Was ist zu beachten wenn ein verunfallter Audi A3 e-tron zu Ihnen in die Werkstatt kommt? </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_40_answer_1_text"> <!-- correct -->
+        <source>Vorgehen gemäß dem Werkstattablaufplan. </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_40_answer_2_text"> <!-- correct -->
+        <source>Bei ausgelöstem Airbags oder Gurtstraffern ist der Hochvolttechniker zu informieren.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_40_answer_3_text"> <!-- correct -->
+        <source>Das Fahrzeug wird nicht in die Werkstatt, sondern auf den Abstellplatz für verunfallte Fahrzeuge gebracht.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_40_answer_4_text"> <!-- correct -->
+        <source>Es ist elementar wichtig, dass alle Mitarbeiter im Autohaus, die e-tron Fahrzeuge annehmen, auf die Gefahren sensibilisiert wurden.</source>
+      </trans-unit>	 
+
+	  
+	  
+	  
+	  <trans-unit id="" resname="question_41_text">
+        <source>Welche Mindestqualifikation benötigen Sie, um Arbeiten an Hochvolt-Komponenten an einem Audi A3 e-tron vorzunehmen?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_41_answer_1_text">
+        <source>Elektriker </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_41_answer_2_text">
+        <source>Mechatroniker </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_41_answer_3_text"> <!-- correct -->
+        <source>EuP Elektrotechnisch unterwiesene Person</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_41_answer_4_text">
+        <source>Unfallkoordinator</source>
+      </trans-unit>
+	  
+	  <trans-unit id="" resname="question_42_text">
+        <source>Welche Informationen sind bei Ladeproblemen hilfreich für die Fehlersuche?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_42_answer_1_text"> <!-- correct -->
+        <source>Lädt der Kunde sein Fahrzeug zu Hause mit dem Audi Ladeequipment oder unterwegs an einer öffentlichen Ladesäule?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_42_answer_2_text">
+        <source>Benutzt der Kunde das Audi Lade-Dock?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_42_answer_3_text"> <!-- correct -->
+        <source>Was zeigt das Display des Ladesystems an?</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_42_answer_4_text">
+        <source>Welcher Elektriker hat die Steckdose des Kunden installiert?</source>
+      </trans-unit>
+	  
+	  <trans-unit id="" resname="question_43_text">
+        <source>Was wird für die Rücksetzung der PIN des Ladesystems benötigt? </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_43_answer_1_text"> <!-- correct -->
+        <source>VAS Tester</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_43_answer_2_text"> <!-- correct -->
+        <source>Diagnosesoftware Ladesystem</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_43_answer_3_text"> <!-- correct -->
+        <source>Ladesystem des Kunden</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_43_answer_4_text"> <!-- correct -->
+        <source>USB-Adapter inkl. USB Verbindungskabel</source>
+      </trans-unit>
+	  
+	  <trans-unit id="" resname="question_44_text">
+        <source>Welche Komponenten können am Audi e-tron Ladesystem durch den Audi Partner bei einem Defekt getauscht werden?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_44_answer_1_text"> <!-- correct -->
+        <source>Netz- und Fahrzeugkabel</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_44_answer_2_text">
+        <source>Display</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_44_answer_3_text"> <!-- correct -->
+        <source>Bedieneinheit</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_44_answer_4_text">
+        <source>Steckadapter am Bedienteil</source>
+      </trans-unit>
+	  
+	  <trans-unit id="" resname="question_45_text">
+        <source>Was ist zu beachten wenn ein Audi A3 e-tron zu einem Serviceereignis zu Ihnen in die Werkstatt kommt?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_45_answer_1_text"> <!-- correct -->
+        <source>Vorgehen gemäß dem Werkstattablaufplan </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_45_answer_2_text">
+        <source>Es ist nichts zu beachten </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_45_answer_3_text">
+        <source>Dem Kunden muss das Fahrzeug auf dem Abstellplatz für verunfallte oder auffällige Fahrzeuge (Quarantäneplatz) übergeben werden. </source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_45_answer_4_text">
+        <source>Es ist grundsätzlich ein Feuerlöscher neben dem Fahrzeug bereit zu halten.</source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_46_text">
+        <source>Wie erfolgt der Prozess der Fahrzeugverbringung im Falle von Reparaturen am Hochvolt-System?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_46_answer_1_text"> <!-- correct -->
+        <source>Sowohl der Basis- als auch der Stützpunktpartner können e-tron Fahrzeuge annehmen.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_46_answer_2_text"> <!-- correct -->
+        <source>Der Basispartner verbringt das Fahrzeug zum nächsten Stützpunktpartner.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_46_answer_3_text">
+        <source>Der Basispartner muss das Fahrzeug direkt zum Audi-Importeur verbringen.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_46_answer_4_text">
+        <source>Die Kosten für die Verbringung werden dem Kunde in Rechnung gestellt.</source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_47_text">
+        <source>Was ist zu beachten, wenn der Kunde bei einem Basispartner eintrifft und die Hochvolt-Warnleuchte leuchtet? </source>
+      </trans-unit>
+      <trans-unit id="" resname="question_47_answer_1_text"> <!-- correct -->
+        <source>Der Basispartner darf keine Fehlersuche am Hochvolt-System durchführen.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_47_answer_2_text"> <!-- correct -->
+        <source>Der Basispartner muss den Kunden über die Verbringung zum Stützpunktpartner informieren.</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_47_answer_3_text">
+        <source>Der Basispartner sollte die Fahrzeugannahme verweigern und ihn auf den nächsten Stützpunktpartner verweisen.</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_47_answer_4_text"> <!-- correct -->
+        <source>Die Rechnungsstellung an den Kunden erfolgt ausschließlich durch den Basispartner.</source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_48_text">
+        <source>Verfügt der Audi A3 Sportback e-tron über einen Drehzahlmesser?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_48_answer_1_text">
+        <source>nein</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_48_answer_2_text">
+        <source>ja, optional anstatt des Powermeters</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_48_answer_3_text">
+        <source>ja, im MMI Bildschirm, in Verbindung mit der optionalen MMI Navigation plus</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_48_answer_4_text"> <!-- correct -->
+        <source>ja, über das Fahrerinformationssystem ist ein digitaler Drehzahmesser für den Verbrennungsmotor anwählbar.</source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_49_text">
+        <source>Was geschieht, wenn der Fahrzeugladestecker in den Ladeanschluss hinter den Audi Ringen des Audi A3 Sportback e-tron eingesteckt wird?</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_49_answer_1_text"> <!-- correct -->
+        <source>der Fahrzeugladestecker wird über die Zentralverriegelung verriegelt</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_49_answer_2_text">
+        <source>der Fahrzeugladestecker muss mit dem Fahrzeugschlüssel verriegelt werden</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_49_answer_3_text"> <!-- correct -->
+        <source>das LED-Leuchtenfeld am Fahrzeugladeaschluss zeigt den aktuellen Ladestatus an</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_49_answer_4_text">
+        <source>der aktuelle Ladestatus kann dann im Fahrerinformationssystem abgefragt werden</source>
+      </trans-unit>
+
+	  <trans-unit id="" resname="question_50_text">
+        <source>Für die Batterie des A3 e-tron gilt eine Garantie von…</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_50_answer_1_text">
+        <source>5 Jahren und 100.000 km auf alle Hochvolt-Komponenten</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_50_answer_2_text">
+        <source>5 Jahren und 100.000 km auf die Hochvolt-Batterie</source>
+      </trans-unit>
+      <trans-unit id="" resname="question_50_answer_3_text">
+        <source>8 Jahren und 160.000 km auf alle Hochvolt-Komponenten</source>
+      </trans-unit>
+	  <trans-unit id="" resname="question_50_answer_4_text"> <!-- correct -->
+        <source>8 Jahren und 160.000 km auf die Hochvolt-Batterie</source>
+      </trans-unit>	   	  
+    </body>
+  </file>
+</xliff>
